@@ -1,6 +1,6 @@
 # vaishnavi
 #hello python
 
-live project
-point1
-point2
+#live project
+-point1
+-point2
